@@ -1,0 +1,8 @@
+matplotlib
+monai
+numpy
+opencv-python-headless
+pandas
+scikit-learn
+tensorflow
+tqdm
