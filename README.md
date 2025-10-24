@@ -12,7 +12,7 @@
 <!--- End of badges -->
 
 <!--- Blurb
-This repository details a U-Net model with an EfficientNetB4 encoder for the semantic segmentation of surgical instruments. Trained on the SAR-RARP50 dataset, the model is designed to identify tools, needles, and threads from robotic-assisted surgery video frames. The project is organised into notebooks for pre-processing, training, and inference, and the final solution achieves a Test Set Mean IoU of 0.7439.
+This project details a U-Net model with an EfficientNetB4 encoder for the semantic segmentation of surgical instruments. Trained on the SAR-RARP50 dataset, the model is designed to identify tools, needles, and threads from robotic-assisted surgery videos. The final solution, built in TensorFlow, achieves a Mean IoU of 0.7439 on the test set.
 -->
 
 <!--- Start of Thumbnail-->
