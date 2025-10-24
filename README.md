@@ -12,7 +12,7 @@
 <!--- End of badges -->
 
 <!--- Blurb
-This project provides a machine vision solution for the semantic segmentation of surgical instruments from the SAR-RARP50 dataset. The objective is to generate pixel-level masks for robotic-assisted surgery videos, identifying prominent tools as well as small objects like needles and threads. The solution implements a U-Net architecture with a pre-trained EfficientNetB4 encoder using TensorFlow and Keras, achieving a final Test Set Mean IoU of 0.7439.
+A computer vision project for segmenting surgical instruments from the SAR-RARP50 robotic surgery dataset. The solution uses a U-Net model with an EfficientNetB4 encoder, achieving a Test Set Mean IoU of 0.7439.
 -->
 
 <!--- Start of Thumbnail-->
