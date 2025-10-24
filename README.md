@@ -1,5 +1,18 @@
 # Surgical Tool Segmentation
 
+<!--- Start of badges -->
+<!-- Badges: python, keras, machinelearning, deeplearning -->
+
+<!--- End of badges -->
+
+<!--- Blurb
+This project provides a machine vision solution for the semantic segmentation of surgical instruments from the SAR-RARP50 dataset. The objective is to generate pixel-level masks for robotic-assisted surgery videos, identifying prominent tools as well as small objects like needles and threads. The solution implements a U-Net architecture with a pre-trained EfficientNetB4 encoder using TensorFlow and Keras, achieving a final Test Set Mean IoU of 0.7439.
+-->
+
+<!--- Start of Thumbnail-->
+<!--- src="Images/thumbnail.png" -->
+<!--- End of Thumbnail-->
+
 This repository contains my solution for the machine vision challenge, focusing on the semantic segmentation of surgical instruments from the SAR-RARP50 dataset.
 
 ## Overview
